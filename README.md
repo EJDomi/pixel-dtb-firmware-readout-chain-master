@@ -3,4 +3,6 @@ pixel-dtb-firmware
 
 repository for modified firmware for the psi46 digital test board.
 
-The software/firmware needed for I2C commands is contained in the DTB_v3.4.flash file; just flash this file to the DTB
+For the firmware to run the test stand use dtb_v3.6.flash
+
+fulle description of the setup can be found at: https://twiki.cern.ch/twiki/bin/view/CMS/UniversityOfKansas#Readout_Chain
