@@ -1,0 +1,8 @@
+LPM_DIRECTION=LEFT
+LPM_TYPE=LPM_SHIFTREG
+LPM_WIDTH=8
+DEVICE_FAMILY="Cyclone III"
+clock
+shiftin
+q
+shiftout
